@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/prueba-despliegue/static/css/main.a190237c.css",
-    "main.js": "/prueba-despliegue/static/js/main.5a1ee4ae.js",
+    "main.js": "/prueba-despliegue/static/js/main.1e734dd1.js",
     "static/media/bg-header.jpg": "/prueba-despliegue/static/media/bg-header.fb28f8b63b6617a5ee5f.jpg",
     "static/media/cart-big.jpg": "/prueba-despliegue/static/media/cart-big.6c4ba14fe51da4337c41.jpg",
     "static/media/cart.jpg": "/prueba-despliegue/static/media/cart.46a543f330bfdbf4a792.jpg",
     "static/media/nap.jpg": "/prueba-despliegue/static/media/nap.f20380492bad40ae7503.jpg",
-    "static/media/umbrella.jpg": "/prueba-despliegue/static/media/umbrella.54113859b729afd66405.jpg",
+    "static/media/umbrella.jpg": "/prueba-despliegue/static/media/umbrella.443da8201d5e9d874a28.jpg",
     "static/media/nap-little.jpg": "/prueba-despliegue/static/media/nap-little.83ef7e991003957ea81a.jpg",
     "static/media/puff-big.jpg": "/prueba-despliegue/static/media/puff-big.775aeed13f0140414000.jpg",
     "static/media/umbrella-big.jpg": "/prueba-despliegue/static/media/umbrella-big.bc06c4f3c71c831f8561.jpg",
@@ -21,10 +21,10 @@
     "static/media/brandlive.JPG": "/prueba-despliegue/static/media/brandlive.2439eb8828bfa1fde9a4.JPG",
     "index.html": "/prueba-despliegue/index.html",
     "main.a190237c.css.map": "/prueba-despliegue/static/css/main.a190237c.css.map",
-    "main.5a1ee4ae.js.map": "/prueba-despliegue/static/js/main.5a1ee4ae.js.map"
+    "main.1e734dd1.js.map": "/prueba-despliegue/static/js/main.1e734dd1.js.map"
   },
   "entrypoints": [
     "static/css/main.a190237c.css",
-    "static/js/main.5a1ee4ae.js"
+    "static/js/main.1e734dd1.js"
   ]
 }
