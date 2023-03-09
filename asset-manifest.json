@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pruebaDespliegue/static/css/main.8725214f.css",
+    "main.js": "/pruebaDespliegue/static/js/main.5ec8da97.js",
+    "static/media/bg-header.jpg": "/pruebaDespliegue/static/media/bg-header.fb28f8b63b6617a5ee5f.jpg",
+    "static/media/cart-big.jpg": "/pruebaDespliegue/static/media/cart-big.6c4ba14fe51da4337c41.jpg",
+    "static/media/cart.jpg": "/pruebaDespliegue/static/media/cart.46a543f330bfdbf4a792.jpg",
+    "static/media/nap.jpg": "/pruebaDespliegue/static/media/nap.f20380492bad40ae7503.jpg",
+    "static/media/nap-little.jpg": "/pruebaDespliegue/static/media/nap-little.83ef7e991003957ea81a.jpg",
+    "static/media/puff-big.jpg": "/pruebaDespliegue/static/media/puff-big.775aeed13f0140414000.jpg",
+    "static/media/umbrella-big.jpg": "/pruebaDespliegue/static/media/umbrella-big.bc06c4f3c71c831f8561.jpg",
+    "static/media/nap-big.jpg": "/pruebaDespliegue/static/media/nap-big.b3e51f13fa252614defd.jpg",
+    "static/media/puff2.jpg": "/pruebaDespliegue/static/media/puff2.190aedb2bcec5b2c74db.jpg",
+    "static/media/umbrella-little.jpg": "/pruebaDespliegue/static/media/umbrella-little.ba2adb96d2f027e697ae.jpg",
+    "static/media/cart-little.jpg": "/pruebaDespliegue/static/media/cart-little.ebd72f4f9c8579caf63f.jpg",
+    "static/media/puff3.jpg": "/pruebaDespliegue/static/media/puff3.9af53d54aba56be62292.jpg",
+    "static/media/umbrella.jpg": "/pruebaDespliegue/static/media/umbrella.15c6081470620b06463c.jpg",
+    "static/media/puff1.jpg": "/pruebaDespliegue/static/media/puff1.6c66b8bbc849b38adf5d.jpg",
+    "static/media/puff-little.jpg": "/pruebaDespliegue/static/media/puff-little.b1e32cabb31b38ca5522.jpg",
+    "static/media/compraSeg.JPG": "/pruebaDespliegue/static/media/compraSeg.299d70f162f64bfe0b09.JPG",
+    "static/media/brandlive.JPG": "/pruebaDespliegue/static/media/brandlive.2439eb8828bfa1fde9a4.JPG",
+    "index.html": "/pruebaDespliegue/index.html",
+    "main.8725214f.css.map": "/pruebaDespliegue/static/css/main.8725214f.css.map",
+    "main.5ec8da97.js.map": "/pruebaDespliegue/static/js/main.5ec8da97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8725214f.css",
+    "static/js/main.5ec8da97.js"
+  ]
+}
